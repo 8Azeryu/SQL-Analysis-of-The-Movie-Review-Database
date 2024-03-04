@@ -1,6 +1,6 @@
 
 
-**GitHub Repository: SQL**-octave-Analysis-of-The-Movie-Review-Database
+**GitHub Repository: SQL**-Rotten movies dataset analysis
 
 **Description:** This repository contains a SQL query in depth analysis of large movie database. It highlights the value of movies, histogram, and last but not least, a ranked selection.
 
