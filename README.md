@@ -14,7 +14,7 @@ Repository Structure:
 
 >README.md: Documentation offering insights into the repository, data sources, query execution instructions, and more.
 
->Dataset: The raw dataset used for this analysis is available in the 'Raw CSV' folder. You can download it here.  
+>Dataset: The raw dataset used for this analysis is available in the 'Raw CSV' folder.
 
 ## How to Use  
 1. Clone the repository to your local machine.  
